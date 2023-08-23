@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/Users/mac/Desktop/xml/tpbiblio/biblio.xsd">
+    <etudiant code="E1" nom="sy" prenom="amadou" age="18">
+        <livre id="L1" titre="sous l'orage" dateEmprunt="2022-12-12" rendu="Oui"/>
+    </etudiant>
+</biblio>

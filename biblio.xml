@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "file:/Users/mac/Desktop/xml/tpbiblio/biblio.dtd">
+<?xml-stylesheet type="text/xsl" href="biblio1.xsl"?>
+<biblio>
+    <etudiant code="E1" nom="seye" prenom="khary" age="24">
+        <livre id="L1" titre="java" dateEmprunt="2023_09_22" rendu="Oui"/>
+        <livre id="L4" titre="xml" dateEmprunt="2023_08_24" rendu="Oui"/>
+        <livre id="L6" titre="algorithme" dateEmprunt="2023_12_01" rendu="Non"/>
+        <livre id="L7" titre="informatique" dateEmprunt="2023_12_30" rendu="Oui"/>
+    </etudiant>
+    <etudiant code="E2" nom="fall" prenom="astou" age="22">
+        <livre id="L3" titre="MVC" dateEmprunt="2022_08_12" rendu="Non"/>
+        <livre id="L8" titre="gangof four" dateEmprunt="2022_12_09" rendu="Oui"/>
+        <livre id="L5" titre="listner" dateEmprunt="2022_11_23" rendu="Non"/>
+        <livre id="L9" titre="type-type" dateEmprunt="2022_05_03" rendu="Non"/>
+    </etudiant>
+</biblio> 
